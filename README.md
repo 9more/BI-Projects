@@ -1,5 +1,5 @@
-#Loan Portfolio Business Intelligence Dashboard
-##Overview
+# Loan Portfolio Business Intelligence Dashboard
+## Overview
 This project presents an end-to-end Business Intelligence solution for analysing a loan portfolio dataset containing over **200,000 records**. The objective is to transform raw loan data into actionable insights that support performance monitoring, customer segmentation, and strategic decision-making.
  Project Workflow
 * **Data Cleaning & Validation:** Processed and validated raw datasets to ensure data quality, consistency, and completeness.

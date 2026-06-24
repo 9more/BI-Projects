@@ -1,5 +1,7 @@
 # Sales Performance & Operational Efficiency Dashboard
 
+[Link to dashboard](https://app.powerbi.com/reportEmbed?reportId=08d23724-127b-4b2f-a107-27553b07fb9d&autoAuth=true&ctid=5a25c45a-db2f-42cc-b69f-0e657afd3300&actionBarEnabled=true)
+
 ## Project Overview
 
 This Business Intelligence project analyzes retail sales and operational performance data to identify trends, evaluate profitability, and measure business efficiency across products, customers, regions, and shipping operations. The project demonstrates a complete BI workflow, from data extraction and transformation to data modeling and interactive dashboard development.
